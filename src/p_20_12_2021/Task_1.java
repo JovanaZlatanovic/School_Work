@@ -32,6 +32,7 @@ public class Task_1 {
 			System.out.print(numbers[i] + " ");
 		}
 
+		s.close();
 	}
 
 }
